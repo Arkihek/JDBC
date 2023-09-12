@@ -9,9 +9,19 @@ public class JDBC_Query01 {
         // Bir JDBC sorgusu yapilmak istendiginde yapilacak ilk is
         // Database yoneticisi ile iletisime gecerek ilgili Database'in Access'lerini almak olacaktir.
 
-        //URL: "jdbc:mysql://194.140.198.209/wonderworld_qa2";
-        //USERNAME= "wonderworld_qawcollegeuser";
-        //PASSWORD="1gvyfx6#Q";
+        /*
+        Wonder World College Database Access Information
+        type : jdbc:mysql
+        host/ip : 194.140.198.209
+        port : 3306
+        database_name : wonderworld_qa2
+        username : wonderworld_qawcollegeuser
+        password :1gvyfx6#Q
+
+        URL: "jdbc:mysql://194.140.198.209/wonderworld_qa2";
+        USERNAME= "wonderworld_qawcollegeuser";
+        PASSWORD="1gvyfx6#Q";
+         */
 
 
         // 1. ADIM: Kullanilacak veritabani icin dogru surucuyu ekle
